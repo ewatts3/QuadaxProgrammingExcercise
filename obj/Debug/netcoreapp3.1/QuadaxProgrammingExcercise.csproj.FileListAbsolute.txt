@@ -1,0 +1,13 @@
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\bin\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.exe
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\bin\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.deps.json
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\bin\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.runtimeconfig.json
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\bin\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.runtimeconfig.dev.json
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\bin\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.dll
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\bin\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.pdb
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\obj\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.csprojAssemblyReference.cache
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\obj\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.AssemblyInfoInputs.cache
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\obj\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.AssemblyInfo.cs
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\obj\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.csproj.CoreCompileInputs.cache
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\obj\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.dll
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\obj\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.pdb
+C:\Users\ewatts3\source\repos\QuadaxProgrammingExcercise\obj\Debug\netcoreapp3.1\QuadaxProgrammingExcercise.genruntimeconfig.cache
